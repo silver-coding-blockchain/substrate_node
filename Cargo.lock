@@ -6503,7 +6503,7 @@ checksum = "4e69bf016dc406eff7d53a7d3f7cf1c2e72c82b9088aac1118591e36dd2cd3e9"
 dependencies = [
  "bitcoin_hashes",
  "rand",
- "rand_core 0.5.1",
+ "rand_core 0.6.4",
  "serde",
  "unicode-normalization",
 ]
@@ -13141,7 +13141,7 @@ dependencies = [
 [[package]]
 name = "substrate-build-script-utils"
 version = "11.0.0"
-source = "git+https://github.com/paritytech/polkadot-sdk.git?tag=polkadot-v1.15.1#16b0fd09d9e9281c20ee0c1d8b87d011e3e3454e"
+source = "git+https://github.com/paritytech/polkadot-sdk.git?tag=polkadot-v1.16.0#87971b3e92721bdf10bf40b410eaae779d494ca0"
 
 [[package]]
 name = "substrate-frame-rpc-system"
